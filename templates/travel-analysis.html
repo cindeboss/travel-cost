@@ -324,18 +324,21 @@
             font-size: 0.75rem;
             background: var(--bg-card);
             color: var(--text-primary);
-            cursor: text;
+            cursor: pointer;
         }
         .column-filter:focus {
             outline: none;
             border-color: var(--primary);
         }
-        .column-filter::placeholder {
-            color: var(--text-muted);
-            font-size: 0.7rem;
-        }
         .column-filter:hover {
             border-color: var(--primary-light);
+        }
+        .column-filter option {
+            padding: 0.1rem;
+        }
+        .column-filter option:checked {
+            background: var(--primary);
+            color: white;
         }
         /* 冻结第一列（姓名列） */
         .data-table th:first-child,

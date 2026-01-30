@@ -233,6 +233,10 @@ def extract_zaitu_train_record(row: pd.Series, roster_index: Dict[str, Dict]) ->
                 except (ValueError, TypeError):
                     pass
 
+    # 过滤价格为0的记录
+    if price == 0:
+        return None
+
     record = {
         'source': '在途商旅',
         'type': 'train',
@@ -291,14 +295,22 @@ def extract_zaitu_car_record(row: pd.Series, roster_index: Dict[str, Dict]) -> O
             total_amount = 0
 
     # 用字典方式获取其他字段
+    # 获取时间字段
+    pickup_time = str(row.get('上车时间', '') or row.get('开始时间', '') or row.get('用车开始时间', '')).strip() if pd.notna(row.get('上车时间') or row.get('开始时间') or row.get('用车开始时间')) else ''
+    dropoff_time = str(row.get('下车时间', '') or row.get('结束时间', '') or row.get('用车结束时间', '')).strip() if pd.notna(row.get('下车时间') or row.get('结束时间') or row.get('用车结束时间')) else ''
+
+    # 过滤时间为空的记录
+    if not pickup_time:
+        return None
+
     record = {
         'source': '在途商旅',
         'type': 'car',
         'passenger': passenger,
         'deptLevel1': dept_info.get('deptLevel1', ''),
         'deptLevel2': dept_info.get('deptLevel2', ''),
-        'pickupTime': str(row.get('上车时间', '') or row.get('开始时间', '') or row.get('用车开始时间', '')).strip() if pd.notna(row.get('上车时间') or row.get('开始时间') or row.get('用车开始时间')) else '',
-        'dropoffTime': str(row.get('下车时间', '') or row.get('结束时间', '') or row.get('用车结束时间', '')).strip() if pd.notna(row.get('下车时间') or row.get('结束时间') or row.get('用车结束时间')) else '',
+        'pickupTime': pickup_time,
+        'dropoffTime': dropoff_time,
         'carType': str(row.get('用车类型', '') or row.get('车型', '')).strip() if pd.notna(row.get('用车类型') or row.get('车型')) else '',
         'provider': provider,
         'origin': {

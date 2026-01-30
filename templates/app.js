@@ -890,7 +890,9 @@ class TravelAnalysisApp {
                     <span class="th-label">${col.label}</span>
                     ${this.sortColumn === col.key ? `<span class="sort-indicator">${this.sortDirection === 'asc' ? '↑' : '↓'}</span>` : ''}
                 </div>
-                <input type="text" class="column-filter" data-column="${col.key}" placeholder="筛选" value="${this.columnFilters[col.key] || ''}">
+                <select class="column-filter" data-column="${col.key}">
+                    <option value="">全部</option>
+                </select>
             </th>
         `).join('');
 
@@ -910,17 +912,56 @@ class TravelAnalysisApp {
         });
 
         // 绑定列筛选事件
-        thead.querySelectorAll('.column-filter').forEach(input => {
-            input.addEventListener('input', (e) => {
+        thead.querySelectorAll('.column-filter').forEach(select => {
+            select.addEventListener('change', (e) => {
                 const column = e.target.dataset.column;
                 this.columnFilters[column] = e.target.value;
                 this.currentPage = 1; // 重置到第一页
                 this.updateTable();
             });
 
-            // 阻止筛选输入框的点击事件冒泡到排序
-            input.addEventListener('click', (e) => {
+            // 阻止筛选选择框的点击事件冒泡到排序
+            select.addEventListener('click', (e) => {
                 e.stopPropagation();
+            });
+        });
+
+        // 填充下拉选项
+        this.populateColumnFilters(columns);
+    }
+
+    /**
+     * 填充列筛选下拉选项
+     */
+    populateColumnFilters(columns) {
+        const typeRecords = this.filteredData.filter(r => r.type === this.currentType);
+
+        columns.forEach(col => {
+            const select = document.querySelector(`.column-filter[data-column="${col.key}"]`);
+            if (!select) return;
+
+            // 收集该列的所有唯一值
+            const values = new Set();
+            typeRecords.forEach(r => {
+                const value = this.getCellValue(r, col.key);
+                if (value !== undefined && value !== null && value !== '') {
+                    values.add(String(value));
+                }
+            });
+
+            // 按字母顺序排序
+            const sortedValues = Array.from(values).sort((a, b) => a.localeCompare(b, 'zh-CN'));
+
+            // 保留"全部"选项，添加其他选项
+            const currentValue = this.columnFilters[col.key] || '';
+            sortedValues.forEach(value => {
+                const option = document.createElement('option');
+                option.value = value;
+                option.textContent = value;
+                if (value === currentValue) {
+                    option.selected = true;
+                }
+                select.appendChild(option);
             });
         });
     }

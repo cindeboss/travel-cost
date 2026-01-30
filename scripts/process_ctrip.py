@@ -56,7 +56,24 @@ AIRLINE_CODE_MAP = {
     'GY': '桂林航空',
     'DR': '瑞丽航空',
     'A6': '红土航空',
-    'GT': '大新华航空'
+    'GT': '大新华航空',
+    'VN': '越南航空',
+    'GJ': '长龙航空',
+    '9C': '春秋航空',
+    'CX': '国泰航空',
+    'KA': '国泰港龙航空',
+    'HX': '香港航空',
+    'UO': '香港快运航空'
+}
+
+
+# 舱位代码映射
+CABIN_CODE_MAP = {
+    'Y': '经济舱', 'B': '经济舱', 'M': '经济舱', 'H': '经济舱',
+    'K': '经济舱', 'L': '经济舱', 'Q': '经济舱', 'E': '经济舱',
+    'C': '商务舱', 'D': '商务舱', 'J': '商务舱',
+    'F': '头等舱', 'A': '头等舱', 'P': '经济舱',
+    'W': '经济舱', 'S': '经济舱', 'T': '经济舱'
 }
 
 
@@ -66,6 +83,14 @@ def infer_airline_from_flight_no(flight_no: str) -> str:
         return ''
     code = flight_no[:2].upper()
     return AIRLINE_CODE_MAP.get(code, '')
+
+
+def convert_cabin_code(cabin_code: str) -> str:
+    """将舱位代码转换为中文"""
+    if not cabin_code:
+        return ''
+    code = cabin_code.strip().upper()
+    return CABIN_CODE_MAP.get(code, cabin_code)
 
 
 # 携程工作表名称映射
@@ -164,6 +189,14 @@ def extract_ctrip_flight_record(row: pd.Series, roster_index: Dict[str, Dict]) -
         except (ValueError, TypeError):
             pass
 
+    # 过滤价格为0的记录（可能是异常数据）
+    if price == 0:
+        return None
+
+    # 舱位（索引13），转换代码为中文
+    cabin_raw = str(row.iloc[13]) if len(row) > 13 and pd.notna(row.iloc[13]) else ''
+    cabin_class = convert_cabin_code(cabin_raw)
+
     record = {
         'source': '携程商旅',
         'type': 'flight',
@@ -175,8 +208,8 @@ def extract_ctrip_flight_record(row: pd.Series, roster_index: Dict[str, Dict]) -
         'departTime': depart_time,
         'fromCity': from_city,
         'toCity': to_city,
-        'price': abs(price),  # 取绝对值，因为退票可能是负数
-        'cabinClass': str(row.iloc[13]) if len(row) > 13 and pd.notna(row.iloc[13]) else '',
+        'price': price,  # 保留原始价格，退票为负数
+        'cabinClass': cabin_class,
         'airline': airline
     }
 

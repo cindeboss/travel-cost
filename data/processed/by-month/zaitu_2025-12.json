@@ -2,7 +2,7 @@
   "source": "在途商旅",
   "month": "2025-12",
   "sourceFile": "在途20251126-20251225.xls",
-  "processedAt": "2026-01-30T19:12:13.921010",
+  "processedAt": "2026-01-30T19:25:31.441997",
   "records": [
     {
       "source": "在途商旅",
@@ -27393,20 +27393,6 @@
     {
       "source": "在途商旅",
       "type": "train",
-      "employee": "谢一帆",
-      "deptLevel1": "教培业务中心",
-      "deptLevel2": "互联网副业组",
-      "trainNo": "G133",
-      "seat": "二等",
-      "departTime": "2025-11-26 11:50",
-      "fromCity": "北京",
-      "toCity": "德州",
-      "price": 0.0,
-      "orderNo": "1222725327916416"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
       "employee": "孙晨",
       "deptLevel1": "康养业务中心",
       "deptLevel2": "兴趣爱好一组",
@@ -27617,20 +27603,6 @@
     {
       "source": "在途商旅",
       "type": "train",
-      "employee": "王德宝",
-      "deptLevel1": "中心负责人",
-      "deptLevel2": "",
-      "trainNo": "D661",
-      "seat": "二等",
-      "departTime": "2025-11-29 13:13",
-      "fromCity": "厦门",
-      "toCity": "深圳",
-      "price": 0.0,
-      "orderNo": "1222738723344000"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
       "employee": "赵赞龙",
       "deptLevel1": "零售业务中心",
       "deptLevel2": "快消组",
@@ -27813,20 +27785,6 @@
     {
       "source": "在途商旅",
       "type": "train",
-      "employee": "蔡键豪",
-      "deptLevel1": "康养业务中心",
-      "deptLevel2": "传统国学组",
-      "trainNo": "G6019",
-      "seat": "二等",
-      "departTime": "2025-11-26 12:48",
-      "fromCity": "广州南",
-      "toCity": "深圳",
-      "price": 0.0,
-      "orderNo": "1222730049127040"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
       "employee": "方汝豪",
       "deptLevel1": "教培业务中心",
       "deptLevel2": "职业培训组",
@@ -27837,20 +27795,6 @@
       "toCity": "长沙",
       "price": 451.5,
       "orderNo": "1222724998267520"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "方汝豪",
-      "deptLevel1": "教培业务中心",
-      "deptLevel2": "职业培训组",
-      "trainNo": "G880",
-      "seat": "二等",
-      "departTime": "2025-11-26 13:32",
-      "fromCity": "深圳",
-      "toCity": "长沙",
-      "price": 0.0,
-      "orderNo": "1222725505060224"
     },
     {
       "source": "在途商旅",
@@ -27963,20 +27907,6 @@
       "toCity": "长沙",
       "price": 27.0,
       "orderNo": "1222726557696640"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "霍彼得",
-      "deptLevel1": "康养业务中心",
-      "deptLevel2": "中医培训组",
-      "trainNo": "G1311",
-      "seat": "二等",
-      "departTime": "2025-11-25 18:33",
-      "fromCity": "广州南",
-      "toCity": "深圳",
-      "price": 0.0,
-      "orderNo": "1222726588564096"
     },
     {
       "source": "在途商旅",
@@ -28163,20 +28093,6 @@
     {
       "source": "在途商旅",
       "type": "train",
-      "employee": "刘敏",
-      "deptLevel1": "零售产品中心",
-      "deptLevel2": "电商产品组",
-      "trainNo": "G319",
-      "seat": "无座",
-      "departTime": "2025-11-28 14:39",
-      "fromCity": "佛山",
-      "toCity": "深圳",
-      "price": 0.0,
-      "orderNo": "1222732831591808"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
       "employee": "邵永旺",
       "deptLevel1": "教培业务中心",
       "deptLevel2": "学科二组",
@@ -28271,20 +28187,6 @@
       "toCity": "北京",
       "price": 371.0,
       "orderNo": "1222731233755776"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "谷小萌",
-      "deptLevel1": "零售业务中心",
-      "deptLevel2": "渠道合作组",
-      "trainNo": "G74",
-      "seat": "二等",
-      "departTime": "2025-11-28 16:13",
-      "fromCity": "郑州东",
-      "toCity": "北京",
-      "price": 0.0,
-      "orderNo": "1222736329118080"
     },
     {
       "source": "在途商旅",
@@ -29409,20 +29311,6 @@
     {
       "source": "在途商旅",
       "type": "train",
-      "employee": "方汝豪",
-      "deptLevel1": "教培业务中心",
-      "deptLevel2": "职业培训组",
-      "trainNo": "G6004",
-      "seat": "二等",
-      "departTime": "2025-12-02 10:00",
-      "fromCity": "深圳",
-      "toCity": "长沙",
-      "price": 0.0,
-      "orderNo": "1222756572139904"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
       "employee": "张政",
       "deptLevel1": "金融医美中心",
       "deptLevel2": "",
@@ -29829,20 +29717,6 @@
     {
       "source": "在途商旅",
       "type": "train",
-      "employee": "舒匡",
-      "deptLevel1": "金融医美中心",
-      "deptLevel2": "金融二组",
-      "trainNo": "G6098",
-      "seat": "二等",
-      "departTime": "2025-12-02 09:10",
-      "fromCity": "深圳北",
-      "toCity": "东莞",
-      "price": 0.0,
-      "orderNo": "1222761140392320"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
       "employee": "张兴旺",
       "deptLevel1": "教培业务中心",
       "deptLevel2": "学科一组",
@@ -29895,20 +29769,6 @@
       "toCity": "郑州",
       "price": 371.0,
       "orderNo": "1222756304424576"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "李继成",
-      "deptLevel1": "零售业务中心",
-      "deptLevel2": "快消组",
-      "trainNo": "G801",
-      "seat": "二等",
-      "departTime": "2025-12-02 13:05",
-      "fromCity": "北京西",
-      "toCity": "郑州",
-      "price": 0.0,
-      "orderNo": "1222761403781504"
     },
     {
       "source": "在途商旅",
@@ -30249,20 +30109,6 @@
     {
       "source": "在途商旅",
       "type": "train",
-      "employee": "韦翔",
-      "deptLevel1": "零售业务中心",
-      "deptLevel2": "渠道合作组",
-      "trainNo": "D3820",
-      "seat": "二等",
-      "departTime": "2025-12-04 09:49",
-      "fromCity": "昆明",
-      "toCity": "南宁",
-      "price": 0.0,
-      "orderNo": "1222762047868544"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
       "employee": "董徐佳文",
       "deptLevel1": "教培业务中心",
       "deptLevel2": "学科二组",
@@ -30543,20 +30389,6 @@
     {
       "source": "在途商旅",
       "type": "train",
-      "employee": "方汝豪",
-      "deptLevel1": "教培业务中心",
-      "deptLevel2": "职业培训组",
-      "trainNo": "G6067",
-      "seat": "二等",
-      "departTime": "2025-12-03 12:08",
-      "fromCity": "长沙",
-      "toCity": "深圳",
-      "price": 0.0,
-      "orderNo": "1222765172167040"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
       "employee": "丁鹏飞",
       "deptLevel1": "康养业务中心",
       "deptLevel2": "兴趣爱好一组",
@@ -30819,20 +30651,6 @@
       "toCity": "深圳",
       "price": 74.5,
       "orderNo": "1222767398097280"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "郭路路",
-      "deptLevel1": "康养业务中心",
-      "deptLevel2": "兴趣爱好一组",
-      "trainNo": "G6341",
-      "seat": "二等",
-      "departTime": "2025-12-03 21:14",
-      "fromCity": "广州南",
-      "toCity": "深圳",
-      "price": 0.0,
-      "orderNo": "1222779719453952"
     },
     {
       "source": "在途商旅",
@@ -31481,20 +31299,6 @@
     {
       "source": "在途商旅",
       "type": "train",
-      "employee": "成柳见",
-      "deptLevel1": "零售业务中心",
-      "deptLevel2": "企业服务组",
-      "trainNo": "G115",
-      "seat": "二等",
-      "departTime": "2025-12-06 14:50",
-      "fromCity": "上海",
-      "toCity": "嘉兴",
-      "price": 0.0,
-      "orderNo": "1222782254648576"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
       "employee": "王飞",
       "deptLevel1": "零售业务中心",
       "deptLevel2": "快消组",
@@ -31561,20 +31365,6 @@
       "toCity": "北京",
       "price": 547.5,
       "orderNo": "1222777253989888"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "包金红",
-      "deptLevel1": "零售业务中心",
-      "deptLevel2": "快消组",
-      "trainNo": "G664",
-      "seat": "二等",
-      "departTime": "2025-12-05 15:49",
-      "fromCity": "西安北",
-      "toCity": "北京",
-      "price": 0.0,
-      "orderNo": "1222787136228608"
     },
     {
       "source": "在途商旅",
@@ -31715,20 +31505,6 @@
       "toCity": "杭州",
       "price": 87.0,
       "orderNo": "1222779035913472"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "李斌",
-      "deptLevel1": "教培业务中心",
-      "deptLevel2": "学科二组",
-      "trainNo": "G7349",
-      "seat": "二等",
-      "departTime": "2025-12-08 09:11",
-      "fromCity": "上海",
-      "toCity": "杭州",
-      "price": 0.0,
-      "orderNo": "1222792848477696"
     },
     {
       "source": "在途商旅",
@@ -32142,20 +31918,6 @@
       "employee": "王晗",
       "deptLevel1": "中心负责人",
       "deptLevel2": "",
-      "trainNo": "G73",
-      "seat": "二等",
-      "departTime": "2025-12-09 11:00",
-      "fromCity": "北京西",
-      "toCity": "郑州",
-      "price": 0.0,
-      "orderNo": "1222799282867713"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "王晗",
-      "deptLevel1": "中心负责人",
-      "deptLevel2": "",
       "trainNo": "G54",
       "seat": "二等",
       "departTime": "2025-12-09 19:09",
@@ -32163,20 +31925,6 @@
       "toCity": "北京",
       "price": 371.0,
       "orderNo": "1222793822473472"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "王晗",
-      "deptLevel1": "中心负责人",
-      "deptLevel2": "",
-      "trainNo": "G896",
-      "seat": "二等",
-      "departTime": "2025-12-09 18:23",
-      "fromCity": "郑州东",
-      "toCity": "北京",
-      "price": 0.0,
-      "orderNo": "1222799078001921"
     },
     {
       "source": "在途商旅",
@@ -33017,20 +32765,6 @@
       "toCity": "广州",
       "price": 74.5,
       "orderNo": "1222800767651073"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "郑泽亮",
-      "deptLevel1": "教培业务中心",
-      "deptLevel2": "学科三组",
-      "trainNo": "G6002",
-      "seat": "二等",
-      "departTime": "2025-12-10 09:00",
-      "fromCity": "深圳",
-      "toCity": "广州",
-      "price": 0.0,
-      "orderNo": "1222804165234176"
     },
     {
       "source": "在途商旅",
@@ -34981,20 +34715,6 @@
     {
       "source": "在途商旅",
       "type": "train",
-      "employee": "李鹏飞",
-      "deptLevel1": "零售业务中心",
-      "deptLevel2": "渠道合作组",
-      "trainNo": "G36",
-      "seat": "二等",
-      "departTime": "2025-12-19 16:54",
-      "fromCity": "杭州",
-      "toCity": "北京",
-      "price": 0.0,
-      "orderNo": "1222846561717120"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
       "employee": "曾伟锋",
       "deptLevel1": "零售业务中心",
       "deptLevel2": "企业服务组",
@@ -35401,20 +35121,6 @@
     {
       "source": "在途商旅",
       "type": "train",
-      "employee": "曾城艳",
-      "deptLevel1": "教培业务中心",
-      "deptLevel2": "学科三组",
-      "trainNo": "G79",
-      "seat": "二等",
-      "departTime": "2025-12-15 17:22",
-      "fromCity": "广州",
-      "toCity": "深圳",
-      "price": 0.0,
-      "orderNo": "1222834407541632"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
       "employee": "张宁宁",
       "deptLevel1": "零售业务中心",
       "deptLevel2": "快消组",
@@ -35471,20 +35177,6 @@
     {
       "source": "在途商旅",
       "type": "train",
-      "employee": "欧阳志伟",
-      "deptLevel1": "教培业务中心",
-      "deptLevel2": "情感心理组",
-      "trainNo": "G6036",
-      "seat": "二等",
-      "departTime": "2025-12-16 20:56",
-      "fromCity": "深圳",
-      "toCity": "广州",
-      "price": 0.0,
-      "orderNo": "1222839872325249"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
       "employee": "鲍凌星",
       "deptLevel1": "教培业务中心",
       "deptLevel2": "情感心理组",
@@ -35495,20 +35187,6 @@
       "toCity": "广州",
       "price": 74.5,
       "orderNo": "1222833726491520"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "鲍凌星",
-      "deptLevel1": "教培业务中心",
-      "deptLevel2": "情感心理组",
-      "trainNo": "G6036",
-      "seat": "二等",
-      "departTime": "2025-12-16 20:56",
-      "fromCity": "深圳",
-      "toCity": "广州",
-      "price": 0.0,
-      "orderNo": "1222839872325249"
     },
     {
       "source": "在途商旅",
@@ -35565,20 +35243,6 @@
       "toCity": "上海",
       "price": 87.0,
       "orderNo": "1222833923099520"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "陈飞",
-      "deptLevel1": "教培业务中心",
-      "deptLevel2": "学科二组",
-      "trainNo": "G158",
-      "seat": "二等",
-      "departTime": "2025-12-15 16:14",
-      "fromCity": "杭州",
-      "toCity": "上海",
-      "price": 0.0,
-      "orderNo": "1222834190419585"
     },
     {
       "source": "在途商旅",
@@ -36473,20 +36137,6 @@
       "departTime": "2025-12-18 16:24",
       "fromCity": "深圳",
       "toCity": "广州",
-      "price": 0.0,
-      "orderNo": "1222850467137152"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "孙晨",
-      "deptLevel1": "康养业务中心",
-      "deptLevel2": "兴趣爱好一组",
-      "trainNo": "D2322",
-      "seat": "二等",
-      "departTime": "2025-12-18 16:24",
-      "fromCity": "深圳",
-      "toCity": "广州",
       "price": -66.5,
       "orderNo": "1222851187246720"
     },
@@ -36503,20 +36153,6 @@
       "toCity": "南京",
       "price": 141.0,
       "orderNo": "1222845608167040"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "刘春龙",
-      "deptLevel1": "康养业务中心",
-      "deptLevel2": "兴趣爱好一组",
-      "trainNo": "G38",
-      "seat": "二等",
-      "departTime": "2025-12-17 18:00",
-      "fromCity": "杭州",
-      "toCity": "南京",
-      "price": 0.0,
-      "orderNo": "1222845648800640"
     },
     {
       "source": "在途商旅",
@@ -36615,20 +36251,6 @@
       "toCity": "南昌",
       "price": 403.0,
       "orderNo": "1222846819665536"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "全罗罗",
-      "deptLevel1": "教培业务中心",
-      "deptLevel2": "职业培训组",
-      "trainNo": "G239",
-      "seat": "二等",
-      "departTime": "2025-12-19 10:00",
-      "fromCity": "上海",
-      "toCity": "南昌",
-      "price": 0.0,
-      "orderNo": "1222851571354496"
     },
     {
       "source": "在途商旅",
@@ -37063,20 +36685,6 @@
       "toCity": "深圳",
       "price": 74.5,
       "orderNo": "1222851593046913"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "郑祺玮",
-      "deptLevel1": "零售产品中心",
-      "deptLevel2": "电商产品组",
-      "trainNo": "G6125",
-      "seat": "无座",
-      "departTime": "2025-12-19 18:47",
-      "fromCity": "广州",
-      "toCity": "深圳",
-      "price": 0.0,
-      "orderNo": "1222857049770368"
     },
     {
       "source": "在途商旅",
@@ -37602,20 +37210,6 @@
       "employee": "李创业",
       "deptLevel1": "教培业务中心",
       "deptLevel2": "学科四组",
-      "trainNo": "G947",
-      "seat": "二等",
-      "departTime": "2025-12-22 14:55",
-      "fromCity": "北京",
-      "toCity": "沈阳",
-      "price": 0.0,
-      "orderNo": "1222872422292096"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "李创业",
-      "deptLevel1": "教培业务中心",
-      "deptLevel2": "学科四组",
       "trainNo": "G932",
       "seat": "二等",
       "departTime": "2025-12-24 17:14",
@@ -37921,20 +37515,6 @@
     {
       "source": "在途商旅",
       "type": "train",
-      "employee": "胡捷",
-      "deptLevel1": "教培业务中心",
-      "deptLevel2": "考培学历组",
-      "trainNo": "C3021",
-      "seat": "二等",
-      "departTime": "2025-12-21 19:40",
-      "fromCity": "合肥",
-      "toCity": "上海",
-      "price": 0.0,
-      "orderNo": "1222867838439296"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
       "employee": "张家铭",
       "deptLevel1": "教培业务中心",
       "deptLevel2": "学科二组",
@@ -38015,20 +37595,6 @@
       "toCity": "上海",
       "price": 59.0,
       "orderNo": "1222872657627520"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "胡捷",
-      "deptLevel1": "教培业务中心",
-      "deptLevel2": "考培学历组",
-      "trainNo": "D3292",
-      "seat": "无座",
-      "departTime": "2025-12-22 17:11",
-      "fromCity": "杭州",
-      "toCity": "上海",
-      "price": 0.0,
-      "orderNo": "1222873945479808"
     },
     {
       "source": "在途商旅",
@@ -39195,20 +38761,6 @@
     {
       "source": "在途商旅",
       "type": "train",
-      "employee": "申世杰",
-      "deptLevel1": "零售业务中心",
-      "deptLevel2": "企业服务组",
-      "trainNo": "G883",
-      "seat": "二等",
-      "departTime": "2025-12-24 18:52",
-      "fromCity": "广州",
-      "toCity": "深圳",
-      "price": 0.0,
-      "orderNo": "1222885767776640"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
       "employee": "欧阳志伟",
       "deptLevel1": "教培业务中心",
       "deptLevel2": "情感心理组",
@@ -39303,20 +38855,6 @@
       "toCity": "上海",
       "price": 87.0,
       "orderNo": "1222884464068992"
-    },
-    {
-      "source": "在途商旅",
-      "type": "train",
-      "employee": "王文韬",
-      "deptLevel1": "中心负责人",
-      "deptLevel2": "",
-      "trainNo": "G462",
-      "seat": "二等",
-      "departTime": "2025-12-24 17:37",
-      "fromCity": "杭州",
-      "toCity": "上海",
-      "price": 0.0,
-      "orderNo": "1222885279275648"
     },
     {
       "source": "在途商旅",
@@ -48978,26 +48516,6 @@
       "distance": 35.02,
       "totalAmount": 50.07,
       "orderNo": "1622753397642880"
-    },
-    {
-      "source": "在途商旅",
-      "type": "car",
-      "passenger": "刘黎",
-      "deptLevel1": "教培业务中心",
-      "deptLevel2": "学科二组",
-      "pickupTime": "",
-      "dropoffTime": "2025-12-01 10:02",
-      "carType": "经济型",
-      "provider": "小牛快跑",
-      "origin": {
-        "city": "杭州东站-网约车(西)-6号室内网约车上客点"
-      },
-      "destination": {
-        "city": "建发英冠·宸云"
-      },
-      "distance": 0.0,
-      "totalAmount": 3.2,
-      "orderNo": "1622753512986245"
     },
     {
       "source": "在途商旅",
@@ -76675,26 +76193,6 @@
       "passenger": "韦欢迎",
       "deptLevel1": "零售业务中心",
       "deptLevel2": "出海销售组",
-      "pickupTime": "",
-      "dropoffTime": "2025-12-13 13:03",
-      "carType": "经济型",
-      "provider": "T3出行",
-      "origin": {
-        "city": "粤澳合作中医药科技产业园(东门)"
-      },
-      "destination": {
-        "city": "珠海金湾机场"
-      },
-      "distance": 0.0,
-      "totalAmount": 3.8,
-      "orderNo": "1622822168105216"
-    },
-    {
-      "source": "在途商旅",
-      "type": "car",
-      "passenger": "韦欢迎",
-      "deptLevel1": "零售业务中心",
-      "deptLevel2": "出海销售组",
       "pickupTime": "2025-12-13 13:09",
       "dropoffTime": "2025-12-13 13:32",
       "carType": "经济型",
@@ -96098,26 +95596,6 @@
     {
       "source": "在途商旅",
       "type": "car",
-      "passenger": "杨帆帆",
-      "deptLevel1": "教培业务中心",
-      "deptLevel2": "企业培训组",
-      "pickupTime": "",
-      "dropoffTime": "2025-12-22 13:41",
-      "carType": "经济型",
-      "provider": "喜行约车",
-      "origin": {
-        "city": "无锡国家集成电路设计中心"
-      },
-      "destination": {
-        "city": "艺龙万国酒店(无锡太湖学院店)"
-      },
-      "distance": 0.0,
-      "totalAmount": 3.8,
-      "orderNo": "1622873287165312"
-    },
-    {
-      "source": "在途商旅",
-      "type": "car",
       "passenger": "刘玲艳",
       "deptLevel1": "零售业务中心",
       "deptLevel2": "团购连锁组",
@@ -106202,46 +105680,6 @@
     {
       "source": "在途商旅",
       "type": "car",
-      "passenger": "郭亚晴",
-      "deptLevel1": "金融医美中心",
-      "deptLevel2": "金融一组",
-      "pickupTime": "",
-      "dropoffTime": "2025-12-25 15:27",
-      "carType": "经济型",
-      "provider": "中交出行",
-      "origin": {
-        "city": "渤海银行(深圳宝安支行)东南侧"
-      },
-      "destination": {
-        "city": "上海证券有限责任公司深圳前海证券营业部"
-      },
-      "distance": 0.0,
-      "totalAmount": 3.3,
-      "orderNo": "1622890685798784"
-    },
-    {
-      "source": "在途商旅",
-      "type": "car",
-      "passenger": "郭亚晴",
-      "deptLevel1": "金融医美中心",
-      "deptLevel2": "金融一组",
-      "pickupTime": "",
-      "dropoffTime": "2025-12-25 15:27",
-      "carType": "经济型",
-      "provider": "中交出行",
-      "origin": {
-        "city": "渤海银行(深圳宝安支行)东南侧"
-      },
-      "destination": {
-        "city": "上海证券有限责任公司深圳前海证券营业部"
-      },
-      "distance": 0.0,
-      "totalAmount": -3.3,
-      "orderNo": "1622891748071808"
-    },
-    {
-      "source": "在途商旅",
-      "type": "car",
       "passenger": "曹勇",
       "deptLevel1": "教培业务中心",
       "deptLevel2": "考培学历组",
@@ -107820,5 +107258,5 @@
       "orderNo": "1622892690282880"
     }
   ],
-  "count": 5893
+  "count": 5855
 }
