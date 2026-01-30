@@ -1,0 +1,57 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Excel临时文件
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+*.tmp
+
+# 原始数据文件（用户自己放置）
+data/raw/*.xlsx
+data/raw/*.xls
+!data/raw/.gitkeep
+
+# 处理后的数据（自动生成，可选是否提交）
+# data/processed/
+
+# 输出文件（自动生成，可选是否提交）
+# output/
+
+# 临时文件
+*.log
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*

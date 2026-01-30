@@ -1,0 +1,5039 @@
+{
+  "months": {
+    "2025-12": {
+      "file": "2025年12月尤兰达的花名册.xlsx",
+      "processedAt": "2026-01-30T17:26:32.948208",
+      "count": 838
+    }
+  },
+  "allEmployees": {
+    "鲍春健": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王良虎": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘松波": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈润": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "产品体验组",
+      "latestRecord": "2025-12"
+    },
+    "曾勇军": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘少军": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "喻千里": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "何钢": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "邹园倚": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "樊晓星": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "蒋雄星": {
+      "deptLevel1": "内部数字化部",
+      "deptLevel2": "研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "詹锦标": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "鲁贵东": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨兰": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "教培/康养KA运营组",
+      "latestRecord": "2025-12"
+    },
+    "吴迪颖": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "洪梦楠": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台一组",
+      "latestRecord": "2025-12"
+    },
+    "韩双娇": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "训练营运营组",
+      "deptLevel3": "售前训练营组",
+      "latestRecord": "2025-12"
+    },
+    "潘恬": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "叶宜坤": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智后台组",
+      "latestRecord": "2025-12"
+    },
+    "张萌乐": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "基础架构组",
+      "latestRecord": "2025-12"
+    },
+    "胡家伟": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "销售支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘威": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播后台开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "肖诚": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "AIO测试一组",
+      "latestRecord": "2025-12"
+    },
+    "张云龙": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王铁波": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘涛": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "风控组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "林柏坤": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈小惠": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "前端开发组",
+      "latestRecord": "2025-12"
+    },
+    "饶艳娇": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "训练营运营组",
+      "deptLevel3": "售前训练营组",
+      "latestRecord": "2025-12"
+    },
+    "夏乐": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "综合支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张真维": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "互联网副业组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "梁芝": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商后台二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "尹贺杰": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "人力组",
+      "deptLevel3": "招聘BP组",
+      "latestRecord": "2025-12"
+    },
+    "刘群": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "企业服务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "倪玉泉": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播质量组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王梓城": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "基础架构组",
+      "latestRecord": "2025-12"
+    },
+    "叶文杰": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "AIO测试一组",
+      "latestRecord": "2025-12"
+    },
+    "潘明雷": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "基础运维组",
+      "latestRecord": "2025-12"
+    },
+    "黄志伟": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "AIO测试一组",
+      "latestRecord": "2025-12"
+    },
+    "邓小艳": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "教练直播组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "梁知杰": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "APP开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨锋涛": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "蒙之新": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数据仓库组",
+      "latestRecord": "2025-12"
+    },
+    "冯江尧": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "助学业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "廖地金": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "基础运维组",
+      "latestRecord": "2025-12"
+    },
+    "卢斯鑫": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "前端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "廖杏梅": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "训练营运营组",
+      "deptLevel3": "售前训练营组",
+      "latestRecord": "2025-12"
+    },
+    "肖春艳": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "训练营运营组",
+      "deptLevel3": "售前训练营组",
+      "latestRecord": "2025-12"
+    },
+    "吴虎成": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "林韵": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "风控组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李宗巩": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "叶宇昕": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "终端业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄晓俊": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "行业发展组",
+      "deptLevel3": "兴趣副业组",
+      "latestRecord": "2025-12"
+    },
+    "黄琛茹": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "视觉组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "肖丹": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "行业孵化组",
+      "deptLevel3": "美业组",
+      "latestRecord": "2025-12"
+    },
+    "林李景": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "APP开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张泽北": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "私域实验组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "邓官平": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "训练营运营组",
+      "deptLevel3": "售前训练营组",
+      "latestRecord": "2025-12"
+    },
+    "李杨": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "林青枝": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "人力组",
+      "deptLevel3": "招聘BP组",
+      "latestRecord": "2025-12"
+    },
+    "张耀华": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "APP开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "周艳": {
+      "deptLevel1": "内部数字化部",
+      "deptLevel2": "研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘翊": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "企业服务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘云杰": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "江必焕": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "余雄伟": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "综合支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吴志林": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "情感心理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "田晓辉": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "彭珊珊": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台二组",
+      "latestRecord": "2025-12"
+    },
+    "黎东娴": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "CEO创新小组",
+      "deptLevel3": "对话标杆组",
+      "latestRecord": "2025-12"
+    },
+    "施宁": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "教培/康养KA运营组",
+      "latestRecord": "2025-12"
+    },
+    "欧阳志伟": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "情感心理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "叶春阳": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "职业培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王晗": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "邓建平": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "谢春才": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播后台一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄楷创": {
+      "deptLevel1": "财务部",
+      "deptLevel2": "财务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "温旭": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "训练营运营组",
+      "deptLevel3": "售后训练营组",
+      "latestRecord": "2025-12"
+    },
+    "赵海英": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈籽健": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "社群运营组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "韦翔": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "渠道合作组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "苏雪娇": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "零售/企服KA运营组",
+      "latestRecord": "2025-12"
+    },
+    "赵赞龙": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "快消组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "韦欢迎": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "出海销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "鞠爽": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "销售支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "苏晓亮": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "渠道合作组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "林晓青": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "教培/康养KA运营组",
+      "latestRecord": "2025-12"
+    },
+    "仝乐": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "快消组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "廖晓怡": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "教培产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "何芳喜": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "职业培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "兰康": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "中医培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "胡雅蓓": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张继章": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "毛江湖": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "职业培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "鲁亚": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "人力组",
+      "deptLevel3": "薪酬绩效组",
+      "latestRecord": "2025-12"
+    },
+    "冷鹏飞": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "胡修孰": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "赖家豪": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "教练直播组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄彩霞": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "于洋": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "渠道合作组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "梁锦添": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张家硕": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播前端组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨凯钿": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播后台开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吴惜青": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王悦祺": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "兴趣爱好二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "左敏歌": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "冯春珺": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "人力组",
+      "deptLevel3": "薪酬绩效组",
+      "latestRecord": "2025-12"
+    },
+    "归颖琳": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄建辉": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "夜班组",
+      "latestRecord": "2025-12"
+    },
+    "谢芬燕": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "业务经理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "朱素和": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "考培学历组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "成柳见": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "企业服务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄根华": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "SMB管家组",
+      "latestRecord": "2025-12"
+    },
+    "宋林": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "私域实验组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "翁朗城": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "教培/康养KA运营组",
+      "latestRecord": "2025-12"
+    },
+    "唐秀云": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "零售行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "高军": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "考培学历组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "卓嘉宾": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "公域业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈依薰": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "零售行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "罗安琪": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "教培LA销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨伟庭": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "SMB管家组",
+      "latestRecord": "2025-12"
+    },
+    "倪伟凯": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "教培LA销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "梁吴胜": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈逸凯": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "教培LA销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王涛": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "SDR一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "邹浩杰": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "销售支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郭万伟": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "郑锦涛": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商后台一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "邱淑欣": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "卢莹": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "零售/企服KA运营组",
+      "latestRecord": "2025-12"
+    },
+    "吴锦鸿": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "零售行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "蔡慧": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "康养LA销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "孙仁芳": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "基础架构组",
+      "latestRecord": "2025-12"
+    },
+    "周东武": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "于腾飞": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "快消组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吴以聪": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "教培/康养KA运营组",
+      "latestRecord": "2025-12"
+    },
+    "张政": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张伟": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王娟": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "SMB运营组",
+      "latestRecord": "2025-12"
+    },
+    "罗淑瑜": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "业务经理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "曾祥华": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智前端组",
+      "latestRecord": "2025-12"
+    },
+    "张远智": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "公域业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "孙阳": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "谷小萌": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "渠道合作组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "曾波": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播质量组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "甘延娇": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "产品体验组",
+      "latestRecord": "2025-12"
+    },
+    "黄盛": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数据仓库组",
+      "latestRecord": "2025-12"
+    },
+    "谷祥涛": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智后台组",
+      "latestRecord": "2025-12"
+    },
+    "王朝阳": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "零售LA销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张坤": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "朱海娟": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "肖瑶": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "产品运营组",
+      "latestRecord": "2025-12"
+    },
+    "赵纪越": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "训练营运营组",
+      "deptLevel3": "售前训练营组",
+      "latestRecord": "2025-12"
+    },
+    "王文庄": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "苗欢欢": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘桐花": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "社群运营组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "方汝豪": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "职业培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "舒匡": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "董浩鹏": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "基础架构组",
+      "latestRecord": "2025-12"
+    },
+    "鲍凌星": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "情感心理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王辉": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈海鹏": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "行业孵化组",
+      "deptLevel3": "美业组",
+      "latestRecord": "2025-12"
+    },
+    "陈勇": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播质量组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李显鹏": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "艾兵": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商前端二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郑裕玲": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "销售支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "周思聪": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播后台开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "姚得斌": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "基础架构组",
+      "latestRecord": "2025-12"
+    },
+    "杨思捷": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨莎": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "私域实验组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "罗文": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨欣妍": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "前端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "阳尚君": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "视觉组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "蒋科": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "助学业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "谭书坤": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播质量组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "高志杰": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商后台一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "曾伟锋": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "企业服务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "何延涛": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "梅水芳": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "AIO测试二组",
+      "latestRecord": "2025-12"
+    },
+    "杨诗惠": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "职业培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郭武澎": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台一组",
+      "latestRecord": "2025-12"
+    },
+    "文诗逸": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "AIO测试二组",
+      "latestRecord": "2025-12"
+    },
+    "游柏皓": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "终端架构组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李延发": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "AIO测试二组",
+      "latestRecord": "2025-12"
+    },
+    "龚定武": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商后台二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "赖文彬": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "前端开发组",
+      "latestRecord": "2025-12"
+    },
+    "文世荣": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台一组",
+      "latestRecord": "2025-12"
+    },
+    "蔡荣辉": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "产品体验组",
+      "latestRecord": "2025-12"
+    },
+    "王昊": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "行业孵化组",
+      "deptLevel3": "中医组",
+      "latestRecord": "2025-12"
+    },
+    "任伟强": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台一组",
+      "latestRecord": "2025-12"
+    },
+    "刘剑": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "企业服务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李鹏飞": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "渠道合作组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "沈海微": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "教培/康养KA运营组",
+      "latestRecord": "2025-12"
+    },
+    "任婷婷": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "AIO测试二组",
+      "latestRecord": "2025-12"
+    },
+    "冯锦芝": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "人力组",
+      "deptLevel3": "薪酬绩效组",
+      "latestRecord": "2025-12"
+    },
+    "慕志毅": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "渠道合作组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张雨诚": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈琦": {
+      "deptLevel1": "财务部",
+      "deptLevel2": "财务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "安建周": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "团购连锁组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "宋绪娟": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "销售支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄海婷": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李文龙": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "渠道合作组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "欧阳琼": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "销售支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄阳林": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "团购连锁组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "罗佳丽": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "教培LA销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "姜申": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "AIO测试一组",
+      "latestRecord": "2025-12"
+    },
+    "黄丽雅": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "人力组",
+      "deptLevel3": "招聘BP组",
+      "latestRecord": "2025-12"
+    },
+    "周亮": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台一组",
+      "latestRecord": "2025-12"
+    },
+    "施德鹏": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "贺先军": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "郭路路": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "兴趣爱好一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "钱斌": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播后台二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘玮": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "业务经理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王晓曼": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "胡思婷": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郭诗诗": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "教练直播组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "何绪军": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "零售质量组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨波": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商前端一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张小雪": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "基础架构组",
+      "latestRecord": "2025-12"
+    },
+    "朱滢帆": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "人力组",
+      "deptLevel3": "招聘BP组",
+      "latestRecord": "2025-12"
+    },
+    "罗春亚": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "投诉/提效组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王珍": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张晓洋": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "叶胡兵": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "考培学历组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张志勇": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "前端开发组",
+      "latestRecord": "2025-12"
+    },
+    "尹家荣": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "AIO测试一组",
+      "latestRecord": "2025-12"
+    },
+    "曾雄": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "基础运维组",
+      "latestRecord": "2025-12"
+    },
+    "娄建": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "零售质量组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "朱文兵": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "基础运维组",
+      "latestRecord": "2025-12"
+    },
+    "蔡舒贤": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "综合支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张学洋": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播质量组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "易明": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播质量组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "朱冬颖": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "孙连玉": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科三组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张雅珉": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "自营服务支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王文韬": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "叶泽江": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智前端组",
+      "latestRecord": "2025-12"
+    },
+    "杨佳兵": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "董徐佳文": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "赖培玲": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "凌翔": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "教培平台组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘文涛": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "快消组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郭正瑜琼": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "高咪": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "产品运营组",
+      "latestRecord": "2025-12"
+    },
+    "张红娟": {
+      "deptLevel1": "经营管理部",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "龙玉善": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "孵化产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李志杰": {
+      "deptLevel1": "内部数字化部",
+      "deptLevel2": "研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郑伟钊": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台一组",
+      "latestRecord": "2025-12"
+    },
+    "高尚": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "渠道合作组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张鸿彬": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "助学业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "幸观圣": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数据仓库组",
+      "latestRecord": "2025-12"
+    },
+    "杨光耀": {
+      "deptLevel1": "内部数字化部",
+      "deptLevel2": "研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "唐敏": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "AIO测试二组",
+      "latestRecord": "2025-12"
+    },
+    "陈飞": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郑雅浩": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数据仓库组",
+      "latestRecord": "2025-12"
+    },
+    "王德宝": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "周椅梨": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "马若丹": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "包金红": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "快消组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "邓爱娟": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "风控组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "傅英": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "高进朝": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘军辉": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "人力组",
+      "deptLevel3": "招聘BP组",
+      "latestRecord": "2025-12"
+    },
+    "王博": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "助学业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "赖广琪": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "新媒体组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "马媛媛": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "梁紫君": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "前端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "赵志伟": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "林云": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商后台一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "付斌": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "兴趣爱好一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈小曼": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "基础架构组",
+      "latestRecord": "2025-12"
+    },
+    "陈燕霞": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "风控组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "冯文强": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "助学业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张卓": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "平台产品组",
+      "latestRecord": "2025-12"
+    },
+    "王仲瑜": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "训练营运营组",
+      "deptLevel3": "售后训练营组",
+      "latestRecord": "2025-12"
+    },
+    "宋仲喜": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台一组",
+      "latestRecord": "2025-12"
+    },
+    "陈晓倩": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商前端一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈秀燕": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "兴趣爱好一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈嘉琪": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王黎": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商前端组",
+      "latestRecord": "2025-12"
+    },
+    "陈洪升": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "行业发展组",
+      "deptLevel3": "兴趣副业组",
+      "latestRecord": "2025-12"
+    },
+    "叶俊杰": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "平台产品组",
+      "latestRecord": "2025-12"
+    },
+    "李艳飞": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商后台二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "蔡智豪": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "团购连锁组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李岩凇": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "素材中心组",
+      "latestRecord": "2025-12"
+    },
+    "白金辉": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "终端业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "施佳丽": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商前端一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘宗信": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商前端二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "曾浩杰": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张孝勇": {
+      "deptLevel1": "内部数字化部",
+      "deptLevel2": "研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李代林": {
+      "deptLevel1": "财务部",
+      "deptLevel2": "财务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "孙利权": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智后台组",
+      "latestRecord": "2025-12"
+    },
+    "吴荣壮": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈土麟": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播后台开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "朱开发": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "系统安全组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈赛军": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播后台开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨畅": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播后台开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "侯佳峰": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "销售支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李茂湛": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播后台一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "姚艺昆": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商前端二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "宋璐君": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智前端组",
+      "latestRecord": "2025-12"
+    },
+    "方佳惠": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈家链": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数据仓库组",
+      "latestRecord": "2025-12"
+    },
+    "吴康娟": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "社群运营组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李涛": {
+      "deptLevel1": "财务部",
+      "deptLevel2": "财务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "阳花平": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "终端业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "谭凯维": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "平台产品组",
+      "latestRecord": "2025-12"
+    },
+    "黄嘉明": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "前端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张旭东": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "终端架构组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨小平": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商前端组",
+      "latestRecord": "2025-12"
+    },
+    "林淑芬": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "教培产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吴海涛": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "系统安全组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "丁俊峰": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "客户端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "何鑫": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "训练营运营组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "高晶晶": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "零售行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "庄梓炜": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播前端组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈玉玲": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "投诉/提效组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨祺": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "终端架构组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "叶明焕": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "自营投放组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "封贞卉": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "人力组",
+      "deptLevel3": "招聘BP组",
+      "latestRecord": "2025-12"
+    },
+    "王奕标": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "行业孵化组",
+      "deptLevel3": "美业组",
+      "latestRecord": "2025-12"
+    },
+    "郑嘉璇": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "何晓颖": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "视觉组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "唐湘妮": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "梁俊忠": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台一组",
+      "latestRecord": "2025-12"
+    },
+    "唐天雨": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "教培产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "古志周": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "零售质量组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郑重": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "销售支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "马婕": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商前端组",
+      "latestRecord": "2025-12"
+    },
+    "许伟": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "基础架构组",
+      "latestRecord": "2025-12"
+    },
+    "杨英颢": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "法务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "钱沐云": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智前端组",
+      "latestRecord": "2025-12"
+    },
+    "朱珂欣": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商前端组",
+      "latestRecord": "2025-12"
+    },
+    "马鹏飞": {
+      "deptLevel1": "内部数字化部",
+      "deptLevel2": "研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈泽仕": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "公域业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张子洁": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "教培产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "詹宏宇": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "零售/企服KA运营组",
+      "latestRecord": "2025-12"
+    },
+    "朱峻农": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商前端组",
+      "latestRecord": "2025-12"
+    },
+    "梁来燕": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "康养LA销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王嘉桦": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黎瑞琪": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "林鑫鹏": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "教培平台组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "游琦琦": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "人力组",
+      "deptLevel3": "培训组",
+      "latestRecord": "2025-12"
+    },
+    "王尚升": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智后台组",
+      "latestRecord": "2025-12"
+    },
+    "张李杰": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播前端组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "於欢": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "产品体验组",
+      "latestRecord": "2025-12"
+    },
+    "谢燕群": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "自营投放组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "龙军": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "传统国学组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "方伟强": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄珊娜": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "培训/外联组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "向云霞": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "出海运营组",
+      "latestRecord": "2025-12"
+    },
+    "罗君权": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "公域业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "余创业": {
+      "deptLevel1": "内部数字化部",
+      "deptLevel2": "研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "周红嫚": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈敏仪": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "教练直播组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吴壮涌": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "AIO测试一组",
+      "latestRecord": "2025-12"
+    },
+    "王桂钦": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播后台开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄宇健": {
+      "deptLevel1": "内部数字化部",
+      "deptLevel2": "研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "曹正春": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智后台组",
+      "latestRecord": "2025-12"
+    },
+    "马乾昆": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "潘嘉芷": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "零售LA销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "苏海城": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "系统安全组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "秦文芳": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播后台开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄彪": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数据仓库组",
+      "latestRecord": "2025-12"
+    },
+    "胡浩峰": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智后台组",
+      "latestRecord": "2025-12"
+    },
+    "林丹红": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "LA运营组",
+      "latestRecord": "2025-12"
+    },
+    "王解放": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "基础运维组",
+      "latestRecord": "2025-12"
+    },
+    "刘骞": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "风控组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "韦红秀": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "AIO测试一组",
+      "latestRecord": "2025-12"
+    },
+    "曾子涵": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "肖金梦": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "综合支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "宫贺": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数据仓库组",
+      "latestRecord": "2025-12"
+    },
+    "刘武兰": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台二组",
+      "latestRecord": "2025-12"
+    },
+    "田悦": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吕明阳": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李江锋": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "教培LA销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "洪舒静": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "LA运营组",
+      "latestRecord": "2025-12"
+    },
+    "陈伟武": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台一组",
+      "latestRecord": "2025-12"
+    },
+    "熊瑛": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "前端开发组",
+      "latestRecord": "2025-12"
+    },
+    "刘莎": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商前端组",
+      "latestRecord": "2025-12"
+    },
+    "邝锐聪": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "庄晓君": {
+      "deptLevel1": "财务部",
+      "deptLevel2": "财务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "邓文文": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "揭英强": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "教培LA销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘欣宇": {
+      "deptLevel1": "财务部",
+      "deptLevel2": "业务财务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "戈军波": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "前端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "万宣然": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "训练营运营组",
+      "deptLevel3": "售前训练营组",
+      "latestRecord": "2025-12"
+    },
+    "梁洪林": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智后台组",
+      "latestRecord": "2025-12"
+    },
+    "刘怡婧": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "社群运营组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "曾美佳": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播前端组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "赵美荣": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "基础运维组",
+      "latestRecord": "2025-12"
+    },
+    "洪丽丽": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "梁楚琰": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "黄新茹": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "企业培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郑薇薇": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄志军": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "夜班组",
+      "latestRecord": "2025-12"
+    },
+    "邓楚楚": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "人力组",
+      "deptLevel3": "薪酬绩效组",
+      "latestRecord": "2025-12"
+    },
+    "叶学武": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "夜班组",
+      "latestRecord": "2025-12"
+    },
+    "程发": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播后台二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "何树品": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商后台二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李萍萍": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "基础运维组",
+      "latestRecord": "2025-12"
+    },
+    "谭梓琪": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "教培产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "宋小明": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智后台组",
+      "latestRecord": "2025-12"
+    },
+    "刘力": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "客户端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张兆宇": {
+      "deptLevel1": "内部数字化部",
+      "deptLevel2": "产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "周加全": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "教培平台组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈思薇": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "系统安全组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈泳潼": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "许立堃": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "行业孵化组",
+      "deptLevel3": "金融组",
+      "latestRecord": "2025-12"
+    },
+    "黄俊": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播后台开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "罗婧琪": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "教培/康养KA运营组",
+      "latestRecord": "2025-12"
+    },
+    "刘玲艳": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "团购连锁组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "周泱": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "业务经理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王鹏": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "终端业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郑佳宇": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播后台二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨世豪": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "前端开发组",
+      "latestRecord": "2025-12"
+    },
+    "李亮": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "素材中心组",
+      "latestRecord": "2025-12"
+    },
+    "吴泽权": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "范昊": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "公共事务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "邹文芊": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "新媒体组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "谢凯弘": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播后台开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "单文骥": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播后台开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "潘俊杰": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "前端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "林美琪": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "训练营运营组",
+      "deptLevel3": "售前训练营组",
+      "latestRecord": "2025-12"
+    },
+    "朱锦红": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王津": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨周翰": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播前端组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "梅海玉": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "私域实验组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "舒钰": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "系统安全组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨姣姣": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "销售支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "钟子豪": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "训练营运营组",
+      "deptLevel3": "售前训练营组",
+      "latestRecord": "2025-12"
+    },
+    "尹仁秀": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    },
+    "周世坤": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "周红华": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播后台一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郑志飞": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "业务经理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李琨": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台二组",
+      "latestRecord": "2025-12"
+    },
+    "林谋权": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播后台一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "酆益": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "教培平台组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄徐震": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "素材中心组",
+      "latestRecord": "2025-12"
+    },
+    "谢一帆": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "互联网副业组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "江子欣": {
+      "deptLevel1": "内部数字化部",
+      "deptLevel2": "产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李武侯": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "前端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "孙然": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "行业孵化组",
+      "deptLevel3": "企培组",
+      "latestRecord": "2025-12"
+    },
+    "陈昭助": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨琦鸿": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "投诉/提效组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "闫立泽": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "团购连锁组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "霍亚婷": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "社群运营组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "袁肖帆": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "客户端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄婉婷": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "康养LA销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘宗良": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "胡润彬": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "医美组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王勇": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "业务经理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈浩雄": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "基础架构组",
+      "latestRecord": "2025-12"
+    },
+    "欧阳德达": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "视觉组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "高杨": {
+      "deptLevel1": "经营管理部",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吴欣雨": {
+      "deptLevel1": "经营管理部",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "梅纬": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "客户端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郭梦婷": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "考培学历组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨杰": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "客户端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吴伟钊": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "风控组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吴永红": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    },
+    "文涛": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李晓丰": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "视觉组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "龙子泉": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "风控组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张富凤": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    },
+    "彭彦博": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "客户端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "林锦生": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "教培/康养KA运营组",
+      "latestRecord": "2025-12"
+    },
+    "雷宇杰": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "业务经理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吴婉莹": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "业务经理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张康乐": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "私域实验组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "朱元雄": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "零售行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "廖慧莲": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "产品体验组",
+      "latestRecord": "2025-12"
+    },
+    "张思敏": {
+      "deptLevel1": "财务部",
+      "deptLevel2": "业务财务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郭睿哲": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "新媒体组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "汪淑萱": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "SDR二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "揭云祥": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "SDR一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李鑫": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播后台二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈玲玲": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "训练营运营组",
+      "deptLevel3": "售前训练营组",
+      "latestRecord": "2025-12"
+    },
+    "戴文超": {
+      "deptLevel1": "财务部",
+      "deptLevel2": "业务财务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "肖海燕": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "自营投放组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吕洁洁": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "业务经理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈晓凤": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "自营投放组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄夕格": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "系统安全组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "江小鱼": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "穆宇杰": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "邓亚飞": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智前端组",
+      "latestRecord": "2025-12"
+    },
+    "邹蓉": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    },
+    "魏明阳": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "业务经理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "路悦": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "教培产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘彬": {
+      "deptLevel1": "财务部",
+      "deptLevel2": "业务财务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘政翰": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科四组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "许鹏涛": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "AIO测试一组",
+      "latestRecord": "2025-12"
+    },
+    "李继成": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "快消组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "冯玥茜": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "汪红宇": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "李振朝": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "终端业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王蓉蓉": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "SMB运营组",
+      "latestRecord": "2025-12"
+    },
+    "杜吉媛": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "培训/外联组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨岚": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "人力组",
+      "deptLevel3": "培训组",
+      "latestRecord": "2025-12"
+    },
+    "韩海光": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播前端组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "梁育宜": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商前端一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "罗灿": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "终端架构组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "江龙涛": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "平台产品组",
+      "latestRecord": "2025-12"
+    },
+    "孙楠": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "情感心理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "程帆": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "黄宝生": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "叶樱姿": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李得宝": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "业务经理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "谢水方": {
+      "deptLevel1": "财务部",
+      "deptLevel2": "财务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨俊杰": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "零售行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "魏涵喆": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "零售质量组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郑祺玮": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张宝琳": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "法务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄永鹏": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播后台一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "章支富": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台二组",
+      "latestRecord": "2025-12"
+    },
+    "刘丛源": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "焦婵": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "风控组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "龙嘉慧": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "黄磾": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "销售支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "邓坤": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "罗伊铭": {
+      "deptLevel1": "财务部",
+      "deptLevel2": "财务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张剑清": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "终端业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "肖烁楠": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商后台一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "宋湛杰": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播后台开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "管成": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "终端业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黎宇栋": {
+      "deptLevel1": "内部数字化部",
+      "deptLevel2": "研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "曾繁茜": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "孵化产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘峥炫": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "终端架构组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "姜小梦": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "零售质量组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张俊城": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张家乐": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "客户端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "何智文": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "AIO测试二组",
+      "latestRecord": "2025-12"
+    },
+    "吴楚燕": {
+      "deptLevel1": "财务部",
+      "deptLevel2": "业务财务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吴岱柠": {
+      "deptLevel1": "财务部",
+      "deptLevel2": "财务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张立志": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智后台组",
+      "latestRecord": "2025-12"
+    },
+    "钱秋林": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "AIO测试一组",
+      "latestRecord": "2025-12"
+    },
+    "张淼": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "平台产品组",
+      "latestRecord": "2025-12"
+    },
+    "车嘉宁": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播后台二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黎文涛": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "终端业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张经纬": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "教培产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "贾孟丽": {
+      "deptLevel1": "财务部",
+      "deptLevel2": "财务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "蔡汶成": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "基础运维组",
+      "latestRecord": "2025-12"
+    },
+    "洪晓彬": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台一组",
+      "latestRecord": "2025-12"
+    },
+    "庄嘉华": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "基础架构组",
+      "latestRecord": "2025-12"
+    },
+    "庞思思": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智前端组",
+      "latestRecord": "2025-12"
+    },
+    "李行健": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数据仓库组",
+      "latestRecord": "2025-12"
+    },
+    "张雯": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "梁锨琪": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈焕春": {
+      "deptLevel1": "经营管理部",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "高晓丹": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郑瑶": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "平台产品组",
+      "latestRecord": "2025-12"
+    },
+    "胡烨琼": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "平台产品组",
+      "latestRecord": "2025-12"
+    },
+    "巫晓佳": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播前端组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "彭先晓": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "基础架构组",
+      "latestRecord": "2025-12"
+    },
+    "王宗杰": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台二组",
+      "latestRecord": "2025-12"
+    },
+    "董云飞": {
+      "deptLevel1": "中心负责人",
+      "deptLevel2": "",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "何景行": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "基础架构组",
+      "latestRecord": "2025-12"
+    },
+    "陈祉伊": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "产品体验组",
+      "latestRecord": "2025-12"
+    },
+    "罗俊杰": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台一组",
+      "latestRecord": "2025-12"
+    },
+    "杜涛": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播前端组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "梁家铭": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商后台一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "孙悦": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈灿华": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商后台二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "费孝坤": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈峰": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "康养LA销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李雪": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "法务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨韵淇": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    },
+    "张妍": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    },
+    "邹杭": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "产品运营组",
+      "latestRecord": "2025-12"
+    },
+    "苏蕾": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "CEO创新小组",
+      "deptLevel3": "对话标杆组",
+      "latestRecord": "2025-12"
+    },
+    "郝嘉铭": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "销售支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘敏珊": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "徐显绘": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    },
+    "詹文星": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    },
+    "高小宾": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    },
+    "傅红芳": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    },
+    "王宇翔": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    },
+    "龙小虎": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "出海销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "苏珏": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "零售/企服KA运营组",
+      "latestRecord": "2025-12"
+    },
+    "曾美玲": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "行业孵化组",
+      "deptLevel3": "中医组",
+      "latestRecord": "2025-12"
+    },
+    "蒋先赞": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "团购连锁组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张晶晶": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "SMB管家组",
+      "latestRecord": "2025-12"
+    },
+    "张成丽": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吴根荃": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播前端组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "蔡文奇": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "团购连锁组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘占伟": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "快消组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "罗俊聪": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商后台二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "董智烽": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "平台产品组",
+      "latestRecord": "2025-12"
+    },
+    "陈鑫杰": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "风控组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "徐川": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台二组",
+      "latestRecord": "2025-12"
+    },
+    "魏灿": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播后台二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄天妮": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "周梦茹": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商前端一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘彦君": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商前端二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "魏子翔": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商前端二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王璇": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智后台组",
+      "latestRecord": "2025-12"
+    },
+    "纪贺伦": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "基础架构组",
+      "latestRecord": "2025-12"
+    },
+    "黎丽": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "SDR二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "欧宝怡": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "产品运营组",
+      "latestRecord": "2025-12"
+    },
+    "曾媛": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "业务经理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "解添昊": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "基础架构组",
+      "latestRecord": "2025-12"
+    },
+    "黄紫华": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "前端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈文涛": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "风控组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "罗建洪": {
+      "deptLevel1": "财务部",
+      "deptLevel2": "财务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "段凤旭": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播质量组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "曾祥文": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播后台开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "顾元景": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "行业孵化组",
+      "deptLevel3": "金融组",
+      "latestRecord": "2025-12"
+    },
+    "于思新": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "快消组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄心圆": {
+      "deptLevel1": "财务部",
+      "deptLevel2": "财务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张泽鹏": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "助学业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李骏驰": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "何霞": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "SDR二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨友琳": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "SDR一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李凯胜": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘浩": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "职业培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "许楠": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "平台产品组",
+      "latestRecord": "2025-12"
+    },
+    "洪嘉纯": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "AIO测试二组",
+      "latestRecord": "2025-12"
+    },
+    "郑敏怡": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "综合支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张崇裕": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "SDR一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张梓豪": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "前端开发组",
+      "latestRecord": "2025-12"
+    },
+    "韩力恒": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "基础运维组",
+      "latestRecord": "2025-12"
+    },
+    "陈思婷": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播前端组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "钟荣龙": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "素材中心组",
+      "latestRecord": "2025-12"
+    },
+    "田贺元": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商前端二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄胜锋": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商后台一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "常云骁": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "助学业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘新一": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "高灵芝": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "素材中心组",
+      "latestRecord": "2025-12"
+    },
+    "刘敏": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "卢毅": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智前端组",
+      "latestRecord": "2025-12"
+    },
+    "林安琪": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "CEO创新小组",
+      "deptLevel3": "对话标杆组",
+      "latestRecord": "2025-12"
+    },
+    "贾程阳": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "电商前端二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吴佳录": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "产品体验组",
+      "latestRecord": "2025-12"
+    },
+    "汪子然": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "出海销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "段菲": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "助学业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王辉腾": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "公域业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张秋平": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "SDR二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "胡霄": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "SDR一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "紫云迪": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "教练直播组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李楠": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "法务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "潘炜华": {
+      "deptLevel1": "内部数字化部",
+      "deptLevel2": "研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吴金龙": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "林沛": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "教培平台组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈翱霄": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "零售行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "明锦标": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "互联网副业组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "肖纳海": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨婷": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "卜安妮": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "新媒体组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨子颖": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "谢诗佳": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "零售行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "汤建民": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "前端开发组",
+      "latestRecord": "2025-12"
+    },
+    "熊前富": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "LA运营组",
+      "latestRecord": "2025-12"
+    },
+    "陈可璇": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "叶泽川": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "林洁": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "黄凯婷": {
+      "deptLevel1": "内部数字化部",
+      "deptLevel2": "研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "丁鹏飞": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "兴趣爱好一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张苗": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科三组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "龙桂生": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科三组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "廖锦辉": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "张志强": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "考培学历组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "曹锦泉": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "SDR二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "於港": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "SDR二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "石思豪": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "SDR一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "易凤琴": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科三组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李嘉炜": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "系统安全组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "霍彼得": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "中医培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李苗苗": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "医美组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "叶海旋": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "SDR二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄曦": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "王泽军": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "SDR一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "候丽娇": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "素材中心组",
+      "latestRecord": "2025-12"
+    },
+    "邱瑾锦": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "行业孵化组",
+      "deptLevel3": "中医组",
+      "latestRecord": "2025-12"
+    },
+    "全罗罗": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "职业培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "何建华": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "零售LA销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王飞": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "快消组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "雷巧珍": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "SDR一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘唱": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "职业培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨雪纯": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "零售LA销售组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "申世杰": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "企业服务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨丁丁": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "团购连锁组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吕志扬": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台二组",
+      "latestRecord": "2025-12"
+    },
+    "李贺": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "周城": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "传统国学组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "蔡键豪": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "传统国学组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郝超": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "考培学历组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李丹": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "企业服务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "雷忠霆": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "企业服务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "朱明娇": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "泛行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "拱师杨": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "直播质量组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "随南南": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "徐李一": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张传龙": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "邵永旺": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李创业": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科四组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄海菠": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "终端架构组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张兴旺": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "卢晨": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "情感心理组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "蓝松松": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智后台组",
+      "latestRecord": "2025-12"
+    },
+    "郭家媛": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "教练直播组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王碧刚": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "考培学历组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郑晓铭": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "产品体验组",
+      "latestRecord": "2025-12"
+    },
+    "蔡彤欣": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "销售支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "方静丽": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "出海运营组",
+      "latestRecord": "2025-12"
+    },
+    "季帅": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王兰星": {
+      "deptLevel1": "SMB电销中心",
+      "deptLevel2": "SDR二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘英琪": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李明康": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "客户端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "谢佳骏": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "社群运营组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张宁宁": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "快消组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "罗伟": {
+      "deptLevel1": "SMB续费中心",
+      "deptLevel2": "客户二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨帆帆": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "企业培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "毛蕾": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "中医培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "司胜玲": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李霂梓": {
+      "deptLevel1": "零售业务中心",
+      "deptLevel2": "销售支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘临风": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "新媒体组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄永圆": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "零售行业管家组",
+      "latestRecord": "2025-12"
+    },
+    "李昌龙": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "系统安全组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "廖芯梅": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "兴趣爱好一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "魏丝莹": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘紫琪": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "新媒体组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨增智": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "基础管家组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王胜喜": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "安童萱": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "视觉组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王诗淇": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "教练直播组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "徐皓扬": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "公域业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郑培宣": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    },
+    "郑梓伦": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融三组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "孙晨": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "兴趣爱好一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郭艳霞": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郭亚晴": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄诙": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融三组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "宫畅彤": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    },
+    "曾康城": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "训练营运营组",
+      "deptLevel3": "售后训练营组",
+      "latestRecord": "2025-12"
+    },
+    "肖俊": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "传统国学组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "孟宪宇": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "兴趣爱好二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "谢柳娟": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "训练营运营组",
+      "deptLevel3": "售前训练营组",
+      "latestRecord": "2025-12"
+    },
+    "安英辉": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科四组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈巧": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "中医培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "曹沛东": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "互联网副业组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李振": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李卓妍": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "销售支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李沛泽": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "基础架构组",
+      "latestRecord": "2025-12"
+    },
+    "雷亚蓉": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李斌": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李朝龙": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "医美组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈碧茵": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "医美组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "关洁": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "数智平台组",
+      "deptLevel3": "数智前端组",
+      "latestRecord": "2025-12"
+    },
+    "刘天凤": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "法务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "吴伟源": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "行业孵化组",
+      "deptLevel3": "美业组",
+      "latestRecord": "2025-12"
+    },
+    "张家铭": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨翊芝": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "互联网副业组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘黎": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈鹏": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "产品体验组",
+      "latestRecord": "2025-12"
+    },
+    "唐丽君": {
+      "deptLevel1": "内部数字化部",
+      "deptLevel2": "产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "周力": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李怡萱": {
+      "deptLevel1": "内部数字化部",
+      "deptLevel2": "产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "梁晓敏": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄程": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "考培学历组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "曾城艳": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科三组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "孙鹏博": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科四组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郑兴尧": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科三组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "林宏宇": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "风控组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "海小明": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "中医培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张永泽": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张永祥": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融三组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "贺旭东": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台一组",
+      "latestRecord": "2025-12"
+    },
+    "刘裕凡": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科三组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "伍梦": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "兴趣爱好二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "舒祎": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张伯阳": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "穆允楠": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "行业孵化组",
+      "deptLevel3": "企培组",
+      "latestRecord": "2025-12"
+    },
+    "黄尚越": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "风控组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "何韩英": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    },
+    "詹伟良": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "产品运营组",
+      "latestRecord": "2025-12"
+    },
+    "王静怡": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "综合支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈芳鑫": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "孵化产品组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "熊丽雨": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "行业孵化组",
+      "deptLevel3": "企培组",
+      "latestRecord": "2025-12"
+    },
+    "陈俊权": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郑雯泽": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "零售质量组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "丑丹": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融三组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "唐林霞": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "黄键林": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "互联网副业组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "胡捷": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "考培学历组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "闫金玉": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王晨阳": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "互联网副业组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陶海山": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "严一铮": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "兴趣爱好一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "冯敏": {
+      "deptLevel1": "零售产品中心",
+      "deptLevel2": "直播前端组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "袁迪": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "考培学历组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "梁志昊": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘春龙": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "兴趣爱好一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "赵青纹": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "郑泽亮": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科三组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张卫国": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "企业培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李宝峰": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "考培学历组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "陈玉领": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科三组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张婧轩": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "助学业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "翁梓铭": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台二组",
+      "latestRecord": "2025-12"
+    },
+    "迪丽努尔·日西提": {
+      "deptLevel1": "直播平台中心",
+      "deptLevel2": "前端开发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "赵熙": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张子涵": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "赫家骏": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "罗晓燕": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "质量平台组",
+      "deptLevel3": "基础运维组",
+      "latestRecord": "2025-12"
+    },
+    "梁方艺": {
+      "deptLevel1": "出海产品中心",
+      "deptLevel2": "出海研发组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "戈妍祺": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "人力组",
+      "deptLevel3": "招聘BP组",
+      "latestRecord": "2025-12"
+    },
+    "张思琦": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "考培学历组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "曹勇": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "考培学历组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "牛玥潼": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王天放": {
+      "deptLevel1": "金融医美中心",
+      "deptLevel2": "金融一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王超毅": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科四组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "马跃": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "职业培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "魏和平": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "企业培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王宁": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "兴趣爱好二组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "杨文瑾": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "前端开发组",
+      "latestRecord": "2025-12"
+    },
+    "兰一鑫": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科四组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "王雪": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科四组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "李厚塬": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "职业培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "叶泉威": {
+      "deptLevel1": "孵化产品中心",
+      "deptLevel2": "研发一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "候秋艳": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "销售支持组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "钟志美": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "学科一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "朱智宽": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "基础架构组",
+      "latestRecord": "2025-12"
+    },
+    "王天宇": {
+      "deptLevel1": "康养业务中心",
+      "deptLevel2": "兴趣爱好一组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "马合军": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "职业培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "涂慧欣": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "产品运营组",
+      "latestRecord": "2025-12"
+    },
+    "朱海青": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "电商平台组",
+      "deptLevel3": "电商平台一组",
+      "latestRecord": "2025-12"
+    },
+    "曾思琪": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "AIO产品组",
+      "deptLevel3": "产品运营组",
+      "latestRecord": "2025-12"
+    },
+    "马新新": {
+      "deptLevel1": "客户运营中心",
+      "deptLevel2": "行业运营组",
+      "deptLevel3": "教培/康养KA运营组",
+      "latestRecord": "2025-12"
+    },
+    "梁浩楠": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "互联网副业组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘小秀": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "职业培训组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "张国强": {
+      "deptLevel1": "教培业务中心",
+      "deptLevel2": "互联网副业组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "罗梦超": {
+      "deptLevel1": "教培产品中心",
+      "deptLevel2": "助学业务组",
+      "deptLevel3": "",
+      "latestRecord": "2025-12"
+    },
+    "刘麒源": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "素材中心组",
+      "latestRecord": "2025-12"
+    },
+    "吴巧琪": {
+      "deptLevel1": "AIO平台中心",
+      "deptLevel2": "基础平台组",
+      "deptLevel3": "前端开发组",
+      "latestRecord": "2025-12"
+    },
+    "曾燕华": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    },
+    "夏逍": {
+      "deptLevel1": "品牌社群中心",
+      "deptLevel2": "训练营运营组",
+      "deptLevel3": "售前训练营组",
+      "latestRecord": "2025-12"
+    },
+    "苏洁芳": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    },
+    "黄美欣": {
+      "deptLevel1": "人力部",
+      "deptLevel2": "行政组",
+      "deptLevel3": "临时组",
+      "latestRecord": "2025-12"
+    }
+  }
+}
