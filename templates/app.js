@@ -166,6 +166,22 @@ class TravelAnalysisApp {
         const loadingProgress = document.getElementById('loadingProgress');
         const loadingText = document.getElementById('loadingText');
 
+        // Mobile/Platform Detection
+        const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ||
+                        window.innerWidth < 768;
+        const isWeChat = /MicroMessenger/i.test(navigator.userAgent);
+        const isEnterpriseWeChat = isWeChat && /wxwork/i.test(navigator.userAgent);
+
+        // Log platform info for debugging
+        console.log('平台检测:', {
+            isMobile,
+            isWeChat,
+            isEnterpriseWeChat,
+            userAgent: navigator.userAgent,
+            screenWidth: window.innerWidth,
+            screenHeight: window.innerHeight
+        });
+
         try {
             // 使用嵌入的数据，但显示处理进度
             const updateProgress = (percent, message) => {
